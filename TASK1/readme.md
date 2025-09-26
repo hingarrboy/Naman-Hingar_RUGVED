@@ -1,6 +1,6 @@
 # Naman Hinger RUGVED Task Submission Repository
 
-# Author
+Author /n
 Name: Naman Hingar S
 Institution: MIT Manipal
 Phase: RUGVED Taskphase
